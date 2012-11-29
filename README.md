@@ -7,9 +7,10 @@ Menu-menu yang tersedia pada LTQ yaitu menu Home, Learn, Quiz dan About. Pada me
 Dalam LTQ ini soal berupa pilihan ganda yang berjumlah 10 soal, pada kuis LTQ ini ada fasilitas timer untuk mengukur waktu pengerjaan pengguna. Sebelum memulai kuis hendaknya pengguna mengisi identitas dengan lengkap. Setelah selesai mengerjakan kuis, pengguna dapat melihat nilai hasil test dengan klik tombol Score Quiz. Namun apabila pengguna ingin mengulang pengerjaan atau jawaban dapat meng-klik tombol Reset Answer. Yang terakhir merupakan menu About, yaitu halaman yang berisi tentang identitas developer web kuis LTQ, yaitu mahasiswa Pendidikan Teknik Informatika angkatan 2009 offering B.
 
 Team Developer LTQ:
-1. Rastra Feryd Permana 109533423226 (github: @rastra)
-2. Vertika Panggayuh 109533423234 (github: @vertiika)
-3. Riza Wahyu Ardhi  1095334244 (github: @rizabyyou)
+<ul>
+<li> Rastra Feryd Permana 109533423226 (github: @rastra)</li>
+<li>Vertika Panggayuh 109533423234 (github: @vertiika)</li>
+<li>Riza Wahyu Ardhi  1095334244 (github: @rizabyyou)<li></ul>
 
 Deskripsi Teknis:
 Pengembangan LTQ (Learn To Quiz) ini dibangun dengan menggunakan teknologi web seperti HTML, CSS, Jquery dan Javascript.
